@@ -1,3 +1,3 @@
 # learning-python
 
-Meu primeiro projeto em python.
+Meu primeiro projeto em Python.
