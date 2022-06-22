@@ -1,6 +1,6 @@
 # learning-python
 
-Meu primeiro projeto em Python, é um jogo de dados via terminal chamado Zombie Dice.
+Meu primeiro projeto em Python, é um jogo de dados via terminal chamado Zombie Dice. 
 
 O jogo possui algumas regras: <a href="https://wellingtonmerlos.github.io/learning-python/projeto-zombie-dice/regras-zombie-dice.pdf">REGRAS ZOMBIE DICE</a>
 
